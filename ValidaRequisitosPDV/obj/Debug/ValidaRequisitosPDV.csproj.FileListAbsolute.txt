@@ -1,0 +1,32 @@
+c:\users\leovegildoneto\documents\visual studio 2013\Projects\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.exe.config
+c:\users\leovegildoneto\documents\visual studio 2013\Projects\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.exe
+c:\users\leovegildoneto\documents\visual studio 2013\Projects\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.pdb
+c:\users\leovegildoneto\documents\visual studio 2013\Projects\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.csprojResolveAssemblyReference.cache
+c:\users\leovegildoneto\documents\visual studio 2013\Projects\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.Form1.resources
+c:\users\leovegildoneto\documents\visual studio 2013\Projects\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.Properties.Resources.resources
+c:\users\leovegildoneto\documents\visual studio 2013\Projects\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.csproj.GenerateResource.Cache
+c:\users\leovegildoneto\documents\visual studio 2013\Projects\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.exe
+c:\users\leovegildoneto\documents\visual studio 2013\Projects\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.pdb
+D:\usuarios\leovegildoneto\Dropbox\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.exe.config
+D:\usuarios\leovegildoneto\Dropbox\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.exe
+D:\usuarios\leovegildoneto\Dropbox\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.pdb
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.exe.config
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.exe
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.pdb
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.csproj.AssemblyReference.cache
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.Form1.resources
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.Properties.Resources.resources
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.csproj.GenerateResource.cache
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.csproj.CoreCompileInputs.cache
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.exe
+E:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.pdb
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.exe.config
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.exe
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Debug\ValidaRequisitosPDV.pdb
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.csproj.AssemblyReference.cache
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.Form1.resources
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.Properties.Resources.resources
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.csproj.GenerateResource.cache
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.exe
+G:\Meu Drive\Lebiscuit\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Debug\ValidaRequisitosPDV.pdb

@@ -1,0 +1,10 @@
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Release\ValidaRequisitosPDV.exe.config
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Release\ValidaRequisitosPDV.Form1.resources
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Release\ValidaRequisitosPDV.FormDetalhe.resources
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Release\ValidaRequisitosPDV.Properties.Resources.resources
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Release\ValidaRequisitosPDV.csproj.GenerateResource.Cache
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Release\ValidaRequisitosPDV.exe
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\bin\Release\ValidaRequisitosPDV.pdb
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Release\ValidaRequisitosPDV.csprojResolveAssemblyReference.cache
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Release\ValidaRequisitosPDV.exe
+C:\Users\leovegildoneto\Dropbox\Projetos Le biscuit\ValidaRequisitosPDV\ValidaRequisitosPDV\obj\Release\ValidaRequisitosPDV.pdb
